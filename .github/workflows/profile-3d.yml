@@ -24,4 +24,4 @@ jobs:
 
           git add .
           git commit -m "chore: update 3D graph" || echo "No changes"
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/TechCoder-Abhi/TechCoder-Abhi.git
+          git push https://x-access-token:${{ secrets.METRICS_TOKEN }}@github.com/TechCoder-Abhi/TechCoder-Abhi.git
