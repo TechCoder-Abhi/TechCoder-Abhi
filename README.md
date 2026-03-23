@@ -43,7 +43,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TechCoder-Abhi&theme=dark&hide_border=false)<br/>
 ## 📊 GitHub Metrics
 
+<!---
 ![Metrics](https://github.com/TechCoder-Abhi/TechCoder-Abhi/blob/main/github-metrics.svg)
+--->
+<img src="https://raw.githubusercontent.com/TechCoder-Abhi/TechCoder-Abhi/main/github-metrics.svg" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TechCoder-Abhi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
