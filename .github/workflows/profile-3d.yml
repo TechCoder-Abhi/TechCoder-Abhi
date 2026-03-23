@@ -1,0 +1,27 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          github_user_name: TechCoder-Abhi
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "TechCoder-Abhi"
+          git config --global user.email "abhijitmondalworld@gmail.com"
+
+          git add .
+          git commit -m "chore: update 3D graph" || echo "No changes"
+          git push https://x-access-token:${{ secrets.METRICS_TOKEN }}@github.com/TechCoder-Abhi/TechCoder-Abhi.git
