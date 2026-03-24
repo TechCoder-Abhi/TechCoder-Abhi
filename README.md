@@ -38,15 +38,22 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![HC-05 Bluetooth](https://img.shields.io/badge/HC--05%20Bluetooth-blue?style=for-the-badge)
 ![Motor Driver Shield](https://img.shields.io/badge/Motor%20Driver%20Shield-grey?style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TechCoder-Abhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TechCoder-Abhi&theme=dark&hide_border=false)<br/>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechCoder-Abhi&theme=tokyonight&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TechCoder-Abhi&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📊 GitHub Metrics
 
 <!---
-![Metrics](https://github.com/TechCoder-Abhi/TechCoder-Abhi/blob/main/github-metrics.svg)
---->
 <img src="https://raw.githubusercontent.com/TechCoder-Abhi/TechCoder-Abhi/main/github-metrics.svg" />
+--->
+![Metrics](https://github.com/TechCoder-Abhi/TechCoder-Abhi/blob/main/github-metrics.svg)
 
 
 ![](https://raw.githubusercontent.com/TechCoder-Abhi/TechCoder-Abhi/main/profile-3d-contrib/profile-night-rainbow.svg)
