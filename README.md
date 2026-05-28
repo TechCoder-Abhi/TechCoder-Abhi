@@ -1,69 +1,146 @@
-# ✨ Hi 👋, I'm Abhijit 
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-important?style=for-the-badge)
-![Object Oriented Programming](https://img.shields.io/badge/OOP-blue?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![HC-05 Bluetooth](https://img.shields.io/badge/HC--05%20Bluetooth-blue?style=for-the-badge)
-![Motor Driver Shield](https://img.shields.io/badge/Motor%20Driver%20Shield-grey?style=for-the-badge)
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Abhijit Mondal</h1>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechCoder-Abhi&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=TechCoder-Abhi&label=Profile%20views&color=0e75b6&style=flat" alt="TechCoder-Abhi" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TechCoder-Abhi&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📊 GitHub Metrics
-
-<!---
-<img src="https://raw.githubusercontent.com/TechCoder-Abhi/TechCoder-Abhi/main/github-metrics.svg" />
---->
-![Metrics](https://github.com/TechCoder-Abhi/TechCoder-Abhi/blob/main/github-metrics.svg)
-
-
-![](https://raw.githubusercontent.com/TechCoder-Abhi/TechCoder-Abhi/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TechCoder-Abhi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TechCoder-Abhi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💫 About Me
+
+- 🎓 B.Tech ECE Student
+- 💻 Passionate about Full Stack Web Development & AI/ML
+- 🌱 Currently learning **Backend Development, Cloud & DSA**
+- 🚀 Exploring **Open Source Contributions**
+- ⚡ Love building real-world projects
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/TechCoder-Abhi" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:your-email@example.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" />
+</p>
+
+## 🌐 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+## ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+## 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+## 📊 Data Science & ML
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+## ☁️ Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,postman" />
+</p>
+
+## 🔧 Hardware & Embedded
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/HC--05%20Bluetooth-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Motor%20Driver%20Shield-grey?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechCoder-Abhi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCoder-Abhi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TechCoder-Abhi&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechCoder-Abhi/TechCoder-Abhi/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TechCoder-Abhi&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github.com/TechCoder-Abhi/TechCoder-Abhi/blob/main/github-metrics.svg" />
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Metrics"/>
+</p>
+
+---
+
+# ⚡ Activity Graph
+
+[![Abhijit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TechCoder-Abhi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Fun Fact
+
+```js
+while(alive) {
+   eat();
+   code();
+   sleep();
+   repeat();
+}
