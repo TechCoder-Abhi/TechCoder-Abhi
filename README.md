@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mondal</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | Open Source Contributor</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TechCoder-Abhi&label=Profile%20views&color=0e75b6&style=flat" alt="TechCoder-Abhi" />
-</p>
+<h3 align="center">🚀 Full Stack Developer | Java & DSA Enthusiast | AI/ML Explorer | Building Scalable Projects</h3>
 
 ---
 
 # 💫 About Me
 
-- 🎓 B.Tech ECE Student
+- 🎓 B.Tech Student
 - 💻 Passionate about Full Stack Web Development & AI/ML
 - 🌱 Currently learning **Backend Development, Cloud & DSA**
 - 🚀 Exploring **Open Source Contributions**
 - ⚡ Love building real-world projects
-- 📫 Reach me at: **your-email@example.com**
 
 ---
 
@@ -24,10 +19,10 @@
 <a href="https://github.com/TechCoder-Abhi" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/abhijit-mondal-tech/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:abhijitmondalworld@gmail.com?subject=Hello Abhi">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
@@ -41,34 +36,46 @@
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" />
 </p>
 
+---
+
 ## 🌐 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,alpinejs,vite" />
 </p>
+
+---
 
 ## ⚙️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,firebase,flask,redis" />
 </p>
+
+---
 
 ## 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
 </p>
+
+---
 
 ## 📊 Data Science & ML
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,anaconda" />
 </p>
 
-## ☁️ Cloud & Tools
+---
+
+## ☁️ Cloud, DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,github,vercel,vscode,idea,postman" />
 </p>
+
+---
 
 ## 🔧 Hardware & Embedded
 <p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=arduino" />
 <img src="https://img.shields.io/badge/HC--05%20Bluetooth-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Motor%20Driver%20Shield-grey?style=for-the-badge"/>
 </p>
@@ -100,7 +107,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TechCoder-Abhi&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-trophies.vercel.app/?username=TechCoder-Abhi&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" />
 </p>
 
 ---
@@ -116,8 +123,11 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Metrics"/>
+  <a href="https://leetcode.com/u/Abhijit_Codes/">
+    <img width="80%" src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats"/>
+  </a>
 </p>
+
 
 ---
 
