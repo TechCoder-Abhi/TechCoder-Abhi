@@ -15,17 +15,25 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/TechCoder-Abhi" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<table>
+<tr>
+<td>
+<a href="https://github.com/TechCoder-Abhi">
+<img src="https://skillicons.dev/icons?i=github" width="48">
 </a>
-<a href="https://www.linkedin.com/in/abhijit-mondal-tech/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</td>
+<td>
+<a href="https://www.linkedin.com/in/abhijit-mondal-tech/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48">
 </a>
+</td>
+<td>
 <a href="mailto:abhijitmondalworld@gmail.com?subject=Hello Abhi">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" width="48">
 </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,9 +83,9 @@
 
 ## 🔧 Hardware & Embedded
 <p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-<img src="https://img.shields.io/badge/HC--05%20Bluetooth-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Motor%20Driver%20Shield-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HC--05_Bluetooth-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Motor_Driver_Shield-6C757D?style=for-the-badge"/>
 </p>
 
 ---
@@ -85,13 +93,13 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechCoder-Abhi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=TechCoder-Abhi&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCoder-Abhi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=TechCoder-Abhi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TechCoder-Abhi&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechCoder-Abhi&theme=tokyonight" />
 </p>
 
 ---
