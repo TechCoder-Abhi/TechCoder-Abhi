@@ -45,6 +45,7 @@ jobs:
           plugin_languages_colors: github
 
           plugin_lines: yes
+          plugin_lines_sections: base
 
           plugin_stars: no
 
