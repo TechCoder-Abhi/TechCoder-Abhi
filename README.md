@@ -140,9 +140,10 @@
 ---
 
 # ⚡ Activity Graph
-
+<!--
 [![Abhijit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TechCoder-Abhi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
+[![Abhijit's GitHub Activity Graph](https://github-act-graph.rodriaum.com/graph?username=TechCoder-Abhi&theme=tokyo-night&area=true&hide_border=true)](https://github.com/TechCoder-Abhi)
 ---
 
 # ✍️ Random Dev Quote
