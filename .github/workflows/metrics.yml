@@ -14,14 +14,6 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Setup Git Identity
-        run: |
-          git config --global user.name "TechCoder-Abhi"
-          git config --global user.email "abhijitmondalworld@gmail.com"
-
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -32,7 +24,7 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
           config_display: large
-          config_output: compact
+          config_output: svg
 
           base: header, activity, community, repositories, metadata
 
@@ -52,20 +44,13 @@ jobs:
       - name: Generate LeetCode Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
+          user: TechCoder-Abhi
+          filename: metrics.plugin.leetcode.svg
+
           base: ""
+          config_output: svg
+
           plugin_leetcode: yes
           plugin_leetcode_user: Abhijit_Codes
           plugin_leetcode_sections: solved, skills, recent
-
-      - name: Commit & Push
-        run: |
-          git add .
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "update metrics"
-            git push
-          fi
